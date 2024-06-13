@@ -31,7 +31,7 @@ WEB
 <a href="Modul 4.1.html">Bordered</a>
 <a href="Modul 4.2.html">Table</a>
 <a href="Modul 4.3.html">Form and Button</a>
-<a href="Modul 5 Javascript.html">/Form pengenalan javascript</a>
+<a href="Modul 5 Javascript.html">Form pengenalan javascript</a>
 <a href="Modul 6.html">Form Pengenalan Jquery</a>
 <a href="Modul 7 .html">Form Dasar PHP</a>
 <a href="Modul 8 .html">Form PHP II dan MYSQL</a>
